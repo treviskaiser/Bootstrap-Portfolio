@@ -1,0 +1,16 @@
+body{
+    background-image:url(crossline-lines.png);
+    
+}
+
+.row {
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+footer{
+    padding-top: 130px;
+}
